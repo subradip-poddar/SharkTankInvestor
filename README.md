@@ -4,7 +4,7 @@ Procedure: -
 
 The Site had a table with all the investor details.
 
-Firstly, I took remote control of the website to automate the process of scrapping using selenium.
+Firstly, I took remote control of the website to automate the process of scrapping using selenium.Then I extracted the page source.
 
 Then Extracted the table using select command of the BeautifulSoup module.
 
